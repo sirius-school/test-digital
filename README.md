@@ -1,15 +1,17 @@
 <!-- omit in toc -->
 # Test digital
 
-Salut à toi jeune apprenti. Voici un petit test pour évaluer tes compétences et déterminer si tu es aptes à rentrer dans une initiation chez Sirius.
+Salut à toi jeune apprenti. Voici un petit test pour évaluer tes compétences en informatique et déterminer si tu es aptes à rentrer dans une initiation chez Sirius.
 
 - Durée du test: 1 heure max. :clock1:
 - Google est ton ami si tu as des questions :mag_right:
-- Quand tu as finis ton test ou que tu es arrivé le plus loins possible, demande pour passer ton entretient avec moi. :eyeglasses:	 :person_bald:
+- Quand tu as fini ton test ou que tu es arrivé le plus loin possible, demande pour passer ton entretient avec moi. :eyeglasses: :person_bald:
+
+Pour commencer, il te suffit de suivre à la lettre les instructions suivantes. Prend bien ton temps pour lire chaque phrase correctement et ne pas te tromper.
 
 ## Les fondations
 
-1. Va sur le bureau.
+1. Va sur le bureau de ton ordinateur.
 2. Crée un dossier que tu nommeras de ton **"nom-prénom"** (ex: "Scala-Jeremy").
 3. Ouvre le dossier que tu viens de créer.
 4. Crée un nouveau **document texte** à l'intérieur du dossier  que tu nommeras **"index.txt"**.
