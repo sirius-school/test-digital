@@ -29,8 +29,10 @@ Réalisons ta première "page web".
     <title>Je suis un titre</title>
   </head>
   <body>
-    <div>
-      <p></p>
+   <div class="container">
+      <div>
+        <p></p>
+      </div>
     </div>
   </body>
 </html>
@@ -65,9 +67,12 @@ Maintenant on va embellir un peu tout ça.
       }
       body {
         background-color: #03071E;
+      }
+      .container{
         display: flex;
-        align-items: center;
         justify-content: center;
+        align-items: center;
+        height: 100vh;
       }
       p {
         color: #FFBA08;
@@ -83,7 +88,7 @@ Tu devrais avoir quelque chose qui ressemble à ceci si tu renommes de-nouveau l
 
 2. Maintenant que tout est en couleur, peut-être que ce n'est pas à ton goût. Alors essaye donc de changer le **background-color** (couleur de fond) et la **color** (couleur) du texte.
 
-:toolbox: Tu peux utiliser [ce lien pour avoir des idées de couleurs](https://www.w3schools.com/html/html_colors_hex.asp).
+:toolbox: Tu peux utiliser <a href="https://www.w3schools.com/html/html_colors_hex.asp" target="_blank">ce lien pour avoir des idées de couleurs</a>.
 
 3. Ajoutons maintenant une image. Sélectionne et copie-colle le code suivant en dessous de ton texte (:bulb: après ```</p>```).
 
@@ -104,4 +109,4 @@ Voilà le résultat:
 
 ![example-center-img](img/example-css-center.png)
 
-Si tu veux, et que tu as compris, tu peux changer l'image aussi. Trouve un gif rigolo qui te représente sur :toolbox: [Giphy](http://www.giphy.com)
+Si tu veux, et que tu as compris, tu peux changer l'image aussi. Trouve un gif rigolo qui te représente sur :toolbox: <a href="http://www.giphy.com" target="_blank">Giphy</a>
