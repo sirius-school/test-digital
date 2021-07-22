@@ -8,20 +8,20 @@
 ## Les fondations
 
 1. Va sur la bureau.
-2. Crée un dossier que tu nommeras de ton **"nom-prénom"** (ex: "Scala-Jeremy")
-3. Ouvre le dossier
-4. Crée un nouveau **document texte** à l'intérieur du dossier  que tu nommeras **"index.txt"**
-5. Ouvre ce document. :bulb: Tu dois utiliser un double-click.
+2. Crée un dossier que tu nommeras de ton **"nom-prénom"** (ex: "Scala-Jeremy").
+3. Ouvre le dossier que tu viens de créer.
+4. Crée un nouveau **document texte** à l'intérieur du dossier  que tu nommeras **"index.txt"**.
+5. Ouvre ce document.
 6. Écris, dans ce document, quelques phrases pour te présenter. Tu peux nous donner ton parcours, tes passions, tes vacances idéales,...
-7. Sauvegarde-le. :bulb: Utilise le raccourcis **ctrl+s** ou le menu "Fichier".
-8. Ferme ensuite le document. :bulb: Utilise le raccourcis **ctrl+w** ou le menu "Fichier" devrait t'aider.
+7. Sauvegarde-le.
+8. Ferme ensuite le document.
 
 ## L'apprentissage
 
 Réalisons ta première "page web".
 
-1. Ouvre de nouveau le document **"index.txt"** avec le bloc-note. (:bulb: utilise le click-droit et choisis "ouvrir avec...")
-2. Copie-colle le texte suivant à la suite de ta présentation
+1. Ouvre de nouveau le document **"index.txt"** avec le bloc-note. 
+2. Sélectionne et copie-colle (:bulb: avec le click-droit) le code suivant à la suite de ta présentation.
 
 ```html
 <html>
@@ -36,7 +36,7 @@ Réalisons ta première "page web".
 </html>
 ```
 
-1. :scissors: Coupe ta présentation et colle là entre ```<p>``` et ```</p>```
+3. Sélectionne et coupe et colle ta présentation entre ```<p>``` et ```</p>```
 
 Exemple:
 
@@ -47,7 +47,7 @@ Exemple:
 4. Remplace **Je suis un titre** par ton pseudo ou ton nom.
 5. Sauvegarde le document et ferme-le.
 6. Renomme ton fichier en **index.html**
-7. Ouvre-le dans un navigateur. :bulb: Double-click dessus.
+7. Ouvre-le dans un navigateur.
 
 Bravo, tu viens de réaliser ta première page web en HTML
 
@@ -56,7 +56,7 @@ Bravo, tu viens de réaliser ta première page web en HTML
 Maintenant on va embellir un peu tout ça.
 
 1. Renomme le fichier **index.html** en **index.txt** et ré-ouvre le. 
-2. Copie/colle ce bout de code entre ```<head>``` et ```</head>``` et en dessous de ```<title>```
+2. Copie/colle ce bout de code entre ```<head>``` et ```</head>``` et en dessous de ```</title>```
 
 ```html
     <style>
@@ -85,10 +85,10 @@ Tu devrais avoir quelque chose qui ressemble à ceci si tu renommes de-nouveau l
 
 :toolbox: Tu peux utiliser [ce lien pour avoir des idées de couleurs](https://www.w3schools.com/html/html_colors_hex.asp).
 
-3. Ajoutons maintenant une image. Copie/colle le code suivant en dessous de ton texte.
+3. Ajoutons maintenant une image. Sélectionne et copie-colle le code suivant en dessous de ton texte (:bulb: après ```</p>```).
 
 ```html
-<img src="http://gph.is/294SopV" alt="dogge">
+<img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" alt="dogge">
 ```
 
 4. Centrons cette image. Rajoute le code suivant avant le ```</style>```
@@ -104,4 +104,4 @@ Voilà le résultat:
 
 ![example-center-img](img/example-css-center.png)
 
-Si tu veux, et que tu as compris, tu peux changer l'image aussi. Trouve un gif rigolo qui te représente sur :toolbox: [Giphy](www.giphy.com)
+Si tu veux, et que tu as compris, tu peux changer l'image aussi. Trouve un gif rigolo qui te représente sur :toolbox: [Giphy](http://www.giphy.com)
