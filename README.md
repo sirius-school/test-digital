@@ -1,13 +1,15 @@
 <!-- omit in toc -->
 # Test digital
 
-*a revoir* Salut à toi jeune apprenti. Voici un petit test pour évaluer tes compétences et déterminer si tu es aptes à rentrer dans une initiation chez Sirius
+Salut à toi jeune apprenti. Voici un petit test pour évaluer tes compétences et déterminer si tu es aptes à rentrer dans une initiation chez Sirius.
 
-*wip* Google is your ami
+- Durée du test: 1 heure max. :clock1:
+- Google est ton ami si tu as des questions :mag_right:
+- Quand tu as finis ton test ou que tu es arrivé le plus loins possible, demande pour passer ton entretient avec moi. :eyeglasses:	 :person_bald:
 
 ## Les fondations
 
-1. Va sur la bureau.
+1. Va sur le bureau.
 2. Crée un dossier que tu nommeras de ton **"nom-prénom"** (ex: "Scala-Jeremy").
 3. Ouvre le dossier que tu viens de créer.
 4. Crée un nouveau **document texte** à l'intérieur du dossier  que tu nommeras **"index.txt"**.
@@ -86,17 +88,17 @@ Tu devrais avoir quelque chose qui ressemble à ceci si tu renommes de-nouveau l
 
 ![example-css](img/example-css.png)
 
-2. Maintenant que tout est en couleur, peut-être que ce n'est pas à ton goût. Alors essaye donc de changer le **background-color** (couleur de fond) et la **color** (couleur) du texte.
+3. Maintenant que tout est en couleur, peut-être que ce n'est pas à ton goût. Alors essaye donc de changer le **background-color** (couleur de fond) et la **color** (couleur) du texte.
 
 :toolbox: Tu peux utiliser <a href="https://www.w3schools.com/html/html_colors_hex.asp" target="_blank">ce lien pour avoir des idées de couleurs</a>.
 
-3. Ajoutons maintenant une image. Sélectionne et copie-colle le code suivant en dessous de ton texte (:bulb: après ```</p>```).
+4. Ajoutons maintenant une image. Sélectionne et copie-colle le code suivant en dessous de ton texte (:bulb: après ```</p>```).
 
 ```html
 <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" alt="dogge">
 ```
 
-4. Centrons cette image. Rajoute le code suivant avant le ```</style>```
+5. Centrons cette image. Rajoute le code suivant avant le ```</style>```
 
 ```css
 img {
@@ -110,3 +112,5 @@ Voilà le résultat:
 ![example-center-img](img/example-css-center.png)
 
 Si tu veux, et que tu as compris, tu peux changer l'image aussi. Trouve un gif rigolo qui te représente sur :toolbox: <a href="http://www.giphy.com" target="_blank">Giphy</a>
+
+Tu es arrivé jusque là, félicitations ! :tada:	
