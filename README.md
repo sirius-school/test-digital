@@ -113,6 +113,6 @@ Voilà le résultat:
 
 ![example-center-img](img/example-css-center.png)
 
-Si tu veux, et que tu as compris, tu peux changer l'image aussi. Trouve un gif rigolo qui te représente sur :toolbox: <a href="http://www.giphy.com" target="_blank">Giphy</a>
+Si tu veux, et que tu as compris, tu peux changer l'image aussi. Trouve un gif rigolo qui te représente sur :toolbox: <a href="http://www.giphy.com" target="_blank">Giphy</a> (utilise la barre de recherche et clique sur "copy link" et choisis "GIF link") ou va sur <a href="http://www.google.com" target="_blank">Google</a> (utilise le click droit et choisis "Copier l'adresse de l'image")
 
 Tu es arrivé jusque là, félicitations ! :tada:	
