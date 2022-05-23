@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# Test digital
+# Test Technique
 
 Salut à toi jeune apprenti. Voici un petit test pour évaluer tes compétences en informatique et déterminer si tu es aptes à rentrer dans une initiation chez Sirius.
 
