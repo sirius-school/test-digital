@@ -7,7 +7,7 @@ Avant de commencer ce petit test, est-ce que tu t'es bien pré-inscrit sur notre
 
 ## Le test peut démarrer
 
-Salut à toi, jeune apprenti. Voici un petit test pour évaluer tes compétences en informatique et déterminer si tu es aptes à rentrer dans une initiation chez Sirius.
+Salut à toi, jeune apprenti. Voici un petit test pour évaluer tes compétences en informatique et déterminer si tu es apte à rentrer dans une initiation chez Sirius.
 
 - Durée du test: 30 minutes max. :clock1:
 - Google est ton ami si tu as des questions :mag_right:
