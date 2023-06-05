@@ -3,7 +3,7 @@
 
 ## Sirius School
 
-Avant de commencer ce petit test, est-ce que tu t'es bien pré-inscrit sur notre site web ? Si ce n'est pas le cas visite le site [Sirius School](https://siriusschool.be/).
+Avant de commencer ce petit test, est-ce que tu t'es bien pré-inscrit sur notre site web ? Si ce n'est pas le cas visite le site [Sirius School](https://siriusschool.be/). Il est **obligatoire** de te préinscrire sinon nous n'aurons aucun moyen de te contacter.
 
 ## Le test peut démarrer
 
