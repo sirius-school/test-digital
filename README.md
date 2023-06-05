@@ -92,7 +92,7 @@ Maintenant on va embellir un peu tout ça.
     </style>
 ```
 
-Tu devrais avoir quelque chose qui ressemble à ceci si tu renommes de-nouveau le fichier et que tu l'ouvres dans ton navigateur.
+Tu devrais avoir quelque chose qui ressemble à ceci si tu renommes de nouveau le fichier et que tu l'ouvres dans ton navigateur.
 
 ![example-css](img/example-css.png)
 
@@ -100,7 +100,7 @@ Tu devrais avoir quelque chose qui ressemble à ceci si tu renommes de-nouveau l
 
 :toolbox: Tu peux utiliser <a href="https://www.w3schools.com/html/html_colors_hex.asp" target="_blank">ce lien pour avoir des idées de couleurs</a>.
 
-1. Ajoutons maintenant une image. Sélectionne et copie-colle le code suivant en dessous de ton texte (:bulb: après ``</p>``).
+4. Ajoutons maintenant une image. Sélectionne et copie-colle le code suivant en dessous de ton texte (:bulb: après ``</p>``).
 
 ```html
 <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" alt="dogge">
@@ -119,6 +119,6 @@ Voilà le résultat:
 
 ![example-center-img](img/example-css-center.png)
 
-Si tu veux, et que tu as compris, tu peux changer l'image aussi. Trouve un gif rigolo qui te représente sur :toolbox: <a href="http://www.giphy.com" target="_blank">Giphy</a> (utilise la barre de recherche et clique sur "copy link" et choisis "GIF link") ou va sur <a href="http://www.google.com" target="_blank">Google</a> (utilise le click droit et choisis "Copier l'adresse de l'image")
+Si tu veux, et que tu as compris, tu peux changer l'image aussi. Trouve un gif rigolo qui te représente sur :toolbox: <a href="http://www.giphy.com" target="_blank">Giphy</a> (utilise la barre de recherche et clique sur "copy link" et choisis "GIF link") ou va sur <a href="http://www.google.com" target="_blank">Google</a> (utilise le clic droit et choisis "Copier l'adresse de l'image")
 
-Tu es arrivé jusque là, félicitations ! :tada:
+Tu es arrivé jusque là, félicitations ! :tada: Montre le résulat à l'un des formateurs :grin:
