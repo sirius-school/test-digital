@@ -53,7 +53,7 @@ Réalisons ta première "page web".
 Exemple:
 
 ```html
-<p>Salut. Je suis votre formateur pour ces 2 prochains mois.</p>
+<p>Salut. Je suis l'un de tes formateurs de ces 5 prochains mois.</p>
 ```
 
 4. Remplace **Je suis un titre** par ton pseudo ou ton nom.
