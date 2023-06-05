@@ -1,9 +1,15 @@
 <!-- omit in toc -->
 # Test Technique
 
-Salut à toi jeune apprenti. Voici un petit test pour évaluer tes compétences en informatique et déterminer si tu es aptes à rentrer dans une initiation chez Sirius.
+## Sirius School
 
-- Durée du test: 1 heure max. :clock1:
+Avant de commencer ce petit test, est-ce que tu t'es bien pré-inscrit sur notre site web ? Si ce n'est pas le cas visite le site [Sirius School](https://siriusschool.be/).
+
+## Le test peut démarrer
+
+Salut à toi, jeune apprenti. Voici un petit test pour évaluer tes compétences en informatique et déterminer si tu es aptes à rentrer dans une initiation chez Sirius.
+
+- Durée du test: 30 minutes max. :clock1:
 - Google est ton ami si tu as des questions :mag_right:
 - Quand tu as fini ton test ou que tu es arrivé le plus loin possible, demande pour passer ton entretient avec moi. :eyeglasses: :person_bald:
 
