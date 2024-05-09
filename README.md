@@ -1,7 +1,7 @@
 <!-- omit in toc -->
 # Test Technique
 
-## Sirius School
+## Préinscription
 
 Avant de commencer ce petit test, est-ce que tu t'es bien pré-inscrit sur notre site web ? Si ce n'est pas le cas visite le site [Sirius School](https://siriusschool.be/). Il est **obligatoire** de te préinscrire sinon nous n'aurons aucun moyen de te contacter.
 
@@ -11,27 +11,33 @@ Salut à toi, jeune apprenti. Voici un petit test pour évaluer tes compétences
 
 - Durée du test: 30 minutes max. :clock1:
 - Google est ton ami si tu as des questions :mag_right:
-- Quand tu as fini ton test ou que tu es arrivé le plus loin possible, demande pour passer ton entretien avec l'un des formateurs. :eyeglasses: :person_bald:
+- Quand tu as fini ton test ou que tu es arrivé le plus loin possible, demande pour passer ton entretien. :eyeglasses:
 
 Pour commencer, il te suffit de suivre à la lettre les instructions suivantes. Prend bien ton temps pour lire chaque phrase correctement et ne pas te tromper.
 
 ## Les fondations
 
-1. Va sur le bureau de ton ordinateur.
-2. Crée un dossier que tu nommeras de ton **"nom-prénom"** (ex: "Scala-Jeremy").
-3. Ouvre le dossier que tu viens de créer.
-4. Crée un nouveau **document texte** à l'intérieur du dossier que tu nommeras **"index.txt"**.
-5. Ouvre ce document.
-6. Écris, dans ce document, quelques phrases pour te présenter. Tu peux nous donner ton parcours, tes passions, tes vacances idéales,...
-7. Sauvegarde-le.
-8. Ferme ensuite le document.
+1. Sur le bureau de ton ordinateur, crée un **nouveau dossier** que tu nommeras de ton **nom-prénom** (ex: Scala-Jeremy).
 
-## L'apprentissage
+> :bulb: Utilise le clic droit pour créer des dossiers et fichiers
 
-Réalisons ta première "page web".
+2. Ouvre l'application `Visual Studio Code`
 
-1. Ouvre de nouveau le document **"index.txt"** avec le bloc-note. 
-2. Sélectionne et copie-colle le code suivant à la suite de ta présentation.
+> :bulb: Recherche ce programme dans le menu `Démarrer` de Windows
+
+3. Dans VSCode, **ouvre le dossier** qu'on a créé plus tôt sur le bureau qui porte ton nom et prénom. Si VSCode te demande si tu peux faire confiance aux fichiers dans ce dossier tu peux répondre "Oui, j'ai confiance".
+
+> :bulb: Toutes les actions principales d'un logiciel se trouvent dans le menu `Fichier`
+
+4. Toujours dans VSCode, crée maintenant un **nouveau fichier** et nome le **index.html** dans le champ qui apparaît.
+5. Écris, dans ce document, quelques phrases pour te présenter. Tu peux nous donner ton parcours, tes passions, tes vacances idéales,... bref lâche toi, mais n'écris pas non plus un roman :D
+6. Sauvegarde ce document.
+
+> :bulb: Tu peux utiliser le raccourcis `ctrl + s` ou utiliser le menu `Fichier`
+
+:tada: Bravo, tu es arrivé jusqu'ici, c'est super. Sans le savoir, tu viens de réaliser ta première page HTML. Mais pour le moment il n'y a que du texte, on va mettre maintenant quelques termes spécifique à l'HTML. Ne t'en fais pas, il suffit de faire du copier-coller pour le moment. Les explications viendront lors des cours :)
+
+7. Sélectionne et copie-colle le code suivant en dessous de ta présentation.
 
 ```html
 <html>
@@ -48,7 +54,13 @@ Réalisons ta première "page web".
 </html>
 ```
 
-3. Sélectionne, coupe et colle ta présentation entre ``<p>`` et ``</p>``
+> :bulb: Tu peux utiliser les raccourcis suivant `ctrl + c` et `ctrl + v` ou utiliser le menu `Edition`
+> 
+> :bulb: Utilise la touche `Enter` pour allez à la ligne après ta présentation.
+
+8. Sélectionne, coupe puis colle ta présentation entre ``<p>`` et ``</p>``
+
+> :bulb: Tu peux utiliser le raccourci `ctrl + x` pour couper ou utiliser le menu `Edition`
 
 Exemple:
 
@@ -56,19 +68,21 @@ Exemple:
 <p>Salut. Je suis l'un de tes formateurs de ces 5 prochains mois.</p>
 ```
 
-4. Remplace **Je suis un titre** par ton pseudo ou ton nom.
-5. Sauvegarde le document et ferme-le.
-6. Renomme ton fichier en **index.html**.
-7. Ouvre-le dans un navigateur.
+9. Remplace la phrase **Je suis un titre** par ton pseudo ou ton nom.
+10.  Sauvegarde le fichier.
+11.  Retourne sur le bureau, puis dans le dossier et double-clic sur le fichier `index.html` pour l'ouvrir dans un navigateur et voir le résultat.
 
-Bravo, tu viens de réaliser ta première page web en HTML.
+Bravo, tu viens de réaliser ta première page web en HTML. Si tu as réussi toutes ces étapes sans difficultés alors tu es prêt(e) pour suivre les cours chez Sirius School.
 
-## Allez plus loin
+Si tu as encore le temps, je te conseille d'essayer la suite du test tout de même. Sinon, viens me trouver et on discutera 5 minutes.
 
-Maintenant on va embellir un peu tout ça.
+## L'apprentissage
 
-1. Renomme le fichier **index.html** en **index.txt** et ré-ouvre le. 
-2. Copie/colle ce bout de code entre ``<head>`` et ``</head>`` et en dessous de ``</title>``
+Tu as décidé de continuer, super. On va un peu embellir ta page.
+
+1. Copie/colle ce bout de code entre ``<head>`` et ``</head>`` **et** en dessous de ``</title>``
+
+> :bulb: Place simplement ton curseur à la fin de ``</title>`` et va à la ligne.
 
 ```html
     <style>
@@ -92,15 +106,15 @@ Maintenant on va embellir un peu tout ça.
     </style>
 ```
 
-Tu devrais avoir quelque chose qui ressemble à ceci si tu renommes de nouveau le fichier et que tu l'ouvres dans ton navigateur.
+Tu devrais avoir quelque chose qui ressemble à ceci si tu sauvegarde ton fichier et rafraîchis (F5) ton fichier dans ta fenêtre de navigateur. Si ce n'est pas le cas, c'est que tu t'es trompé. Reviens en arrière et ré-essaye ou alors appel moi.
 
 ![example-css](img/example-css.png)
 
-3. Maintenant que tout est en couleur, peut-être que ce n'est pas à ton goût. Alors essaye donc de changer le **background-color** (couleur de fond) et la **color** (couleur) du texte.
+2. Maintenant que tout est en couleur, peut-être que ce n'est pas à ton goût. Alors essaye donc de changer le **background-color** (couleur de fond) et la **color** (couleur) du texte. Remplace `#03071E` par une autre valeur (voir paragraphe suivant).
 
-:toolbox: Tu peux utiliser <a href="https://www.w3schools.com/html/html_colors_hex.asp" target="_blank">ce lien pour avoir des idées de couleurs</a>.
+:toolbox: Tu peux utiliser <a href="https://htmlcolorcodes.com/" target="_blank">ce lien pour avoir des idées de couleurs</a>. Copie le code **HEX** qui commence toujours par un hashtag (#) et suivis de 6 caractères (lettres et numéro)
 
-4. Ajoutons maintenant une image. Sélectionne et copie-colle le code suivant en dessous de ton texte (:bulb: après ``</p>``).
+3. Ajoutons maintenant une image. Sélectionne et copie-colle le code suivant en dessous de ton texte (:bulb: après ``</p>``).
 
 ```html
 <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" alt="dogge">
@@ -121,4 +135,4 @@ Voilà le résultat:
 
 Si tu veux, et que tu as compris, tu peux changer l'image aussi. Trouve un gif rigolo qui te représente sur :toolbox: <a href="http://www.giphy.com" target="_blank">Giphy</a> (utilise la barre de recherche et clique sur "copy link" et choisis "GIF link") ou va sur <a href="http://www.google.com" target="_blank">Google</a> (utilise le clic droit et choisis "Copier l'adresse de l'image")
 
-Tu es arrivé jusque là, félicitations ! :tada: Montre le résulat à l'un des formateurs :grin:
+Tu es arrivé à la fin, félicitations ! :tada: Montre moi le résultat puis nous irons discuter 5 minutes pour la suite de ton inscription.
