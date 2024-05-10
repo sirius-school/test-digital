@@ -24,18 +24,19 @@ Pour commencer, il te suffit de suivre à la lettre les instructions suivantes. 
 
 > :bulb: Recherche ce programme dans le menu `Démarrer` de Windows
 
-3\. Dans VSCode, **ouvre le dossier** qu'on a créé plus tôt sur le bureau qui porte ton nom et prénom. Si VSCode te demande si tu peux faire confiance aux fichiers dans ce dossier tu peux répondre "Oui, j'ai confiance".
+3\. Dans VSCode, **ouvre le dossier** (open folder) qu'on a créé plus tôt sur le bureau qui porte ton nom et prénom. Si VSCode te demande si tu peux faire confiance aux fichiers dans ce dossier tu peux répondre "Oui, j'ai confiance" (Yes, I trust).
 
 > :bulb: Toutes les actions principales d'un logiciel se trouvent dans le menu `Fichier`
 
-4\. Toujours dans VSCode, crée maintenant un **nouveau fichier** et nomme le **index.html** dans le champ qui apparaît, valide avec `Enter`. Puis dans la fenêtre suivante, appuie de nouveau sur `Enter`.
+4\. Toujours dans VSCode, crée maintenant un **nouveau fichier** (new file) et nomme le **index.html** dans le champ qui apparaît, valide avec `Enter`. Puis dans la fenêtre suivante, appuie de nouveau sur `Enter`.
 
 ![file](./img/file.png)
 
 5\. Écris, dans ce document, quelques phrases pour te présenter. Tu peux nous donner ton parcours, tes passions, tes vacances idéales,... bref lâche toi, mais n'écris pas non plus un roman :D
+
 6\. Sauvegarde ce document.
 
-> :bulb: Tu peux utiliser le raccourcis `ctrl + s` ou utiliser le menu `Fichier`
+> :bulb: Tu peux utiliser le raccourcis `ctrl + s` ou utiliser le menu `Fichier` (File)
 
 :tada: Bravo, tu es arrivé jusqu'ici, c'est super. Sans le savoir, tu viens de réaliser ta première page HTML. Mais pour le moment il n'y a que du texte, on va mettre maintenant quelques termes spécifique à l'HTML. Ne t'en fais pas, il suffit de faire du copier-coller pour le moment. Les explications viendront lors des cours :)
 
@@ -56,13 +57,13 @@ Pour commencer, il te suffit de suivre à la lettre les instructions suivantes. 
 </html>
 ```
 
-> :bulb: Tu peux utiliser les raccourcis suivant `ctrl + c` et `ctrl + v` ou utiliser le menu `Edition`
+> :bulb: Tu peux utiliser les raccourcis suivant `ctrl + c` et `ctrl + v` ou utiliser le menu `Edition` (Edit)
 
 > :bulb: Utilise la touche `Enter` pour allez à la ligne après ta présentation.
 
 8\. Sélectionne, coupe puis colle ta présentation entre ``<p>`` et ``</p>``
 
-> :bulb: Tu peux utiliser le raccourci `ctrl + x` pour couper ou utiliser le menu `Edition`
+> :bulb: Tu peux utiliser le raccourci `ctrl + x` pour couper ou utiliser le menu `Edition` (Edit)
 
 Exemple:
 
