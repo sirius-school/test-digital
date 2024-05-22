@@ -26,7 +26,7 @@ Pour commencer, il te suffit de suivre à la lettre les instructions suivantes. 
 
 3\. Dans VSCode, **ouvre le dossier** (open folder) qu'on a créé plus tôt sur le bureau qui porte ton nom et prénom. Si VSCode te demande si tu peux faire confiance aux fichiers dans ce dossier tu peux répondre "Oui, j'ai confiance" (Yes, I trust).
 
-> :bulb: Toutes les actions principales d'un logiciel se trouvent dans le menu `Fichier`
+> :bulb: Toutes les actions principales d'un logiciel se trouvent dans le menu `Fichier`, si tu ne vois pas le menu mais 3 traits à la place, agrandis la fenêtre de VSCode.
 
 4\. Toujours dans VSCode, crée maintenant un **nouveau fichier** (new file) et nomme le **index.html** dans le champ qui apparaît, valide avec `Enter`. Puis dans la fenêtre suivante, appuie de nouveau sur `Enter`.
 
